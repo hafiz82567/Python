@@ -100,6 +100,7 @@ This repository is a **comprehensive collection** of Python code that I've creat
 | `hello.py` | Introduction to Python syntax, basic `print()` output, and environment setup |
 | `practice.py` | Hands-on exercises and practice problems covering core fundamentals |
 | `variable,data type .py` | Deep dive into Python variables, memory layout, and fundamental data types |
+| `input.py` | Practical usage of user inputs, type casting inputs, and interactive terminal prompts |
 
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=3&width=1000)
 
@@ -113,4 +114,4 @@ git clone [https://github.com/hafiz82567/Python.git](https://github.com/hafiz825
 cd Python
 
 # Run any script
-python hello.py
+python input.py
