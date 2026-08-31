@@ -102,6 +102,7 @@ This repository is a **comprehensive collection** of Python code that I've creat
 | `variable,data type .py` | Deep dive into Python variables, memory layout, and fundamental data types |
 | `input.py` | Practical usage of user inputs, type casting inputs, and interactive terminal prompts |
 | `if else.py` | Implementation of conditional control flow, `if`, `elif`, and `else` decision structures |
+| `functions.py` | Defining and calling functions, return values, parameters, and modular code design |
 
 ![Divider](https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=3&width=1000)
 
@@ -115,4 +116,4 @@ git clone [https://github.com/hafiz82567/Python.git](https://github.com/hafiz825
 cd Python
 
 # Run any script
-python "if else.py"
+python functions.py
