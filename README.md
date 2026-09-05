@@ -102,6 +102,7 @@ This repository is a **comprehensive collection** of Python code that I've creat
 | `variable,data type .py` | Deep dive into Python variables, memory layout, and fundamental data types |
 | `input.py` | Practical usage of user inputs, type casting inputs, and interactive terminal prompts |
 | `if else.py` | Implementation of conditional control flow, `if`, `elif`, and `else` decision structures |
+| `nested_if.py` | Implementation of multi-level decision making and nested conditional structures |
 | `switch case.py` | Structural pattern matching using Python 3.10+ `match-case` statements |
 | `for loop.py` | Iteration patterns, `range()` usage, sequence traversal, and loop control structures |
 | `while_loop.py` | Condition-based iteration, sentinel loops, infinite loop prevention, and loop control statements |
@@ -119,4 +120,4 @@ git clone [https://github.com/hafiz82567/Python.git](https://github.com/hafiz825
 cd Python
 
 # Run any script
-python "switch case.py"
+python nested_if.py
